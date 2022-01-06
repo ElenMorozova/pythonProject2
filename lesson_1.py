@@ -1,5 +1,5 @@
 # Задание 1
-name = 'Helen'
+name = 'Elen'
 print(name)
 age = 18
 print(age)
